@@ -1,6 +1,12 @@
 [type=tel], [type=url], [type=email], [type=number] {
-    direction: ltr !important;
-  }
-  
+  direction: ltr !important;
+}
 
-  
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+footer{
+  margin-top: auto;
+}
