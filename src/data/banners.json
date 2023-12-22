@@ -1,0 +1,23 @@
+[
+    {
+        "Title":"Your Garden Paradise Awaits",
+        "Subtitle":"Transform your outdoor space into a lush oasis with Lucky Shrub. Let our expert team led by Jason create harmony in green.",
+        "Button":"Explore Designs",
+        "ImageUrl":"assets/img/banners/slide-1.jpg"
+    },
+    {
+        "Title":"Bringing Nature Home",
+        "Subtitle":"Discover vibrant indoor and outdoor plants at Lucky Shrub's Plant Nursery. Elevate your spaces with our carefully curated selection, cultivated with love.",
+        "Button":"Visit Nursery",
+        "ImageUrl":"assets/img/banners/slide-2.jpg"
+    },
+    {
+        "Title":"Landscaping Dreams Come True",
+        "Subtitle":"Experience professionally landscaped gardens with Lucky Shrub. Our dedicated team, guided by Jason, turns landscapes into captivating works of art.",
+        "Button":"Transform Now",
+        "ImageUrl":"assets/img/banners/slide-3.jpg"
+    }
+]
+
+
+
