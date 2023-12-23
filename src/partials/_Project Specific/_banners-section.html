@@ -11,7 +11,7 @@
         <div class="carousel-inner">
           {{#each banners}}
           <div class="carousel-item position-relative {{#ifequal @index 0}}active{{/ifequal}}">
-            <img src="assets/img/banners/slide-{{add @index 1}}.jpg" class="d-block w-100" alt="Slider {{@index}}">
+            <img src="assets/img/banners/slide-{{add @index 1}}.jpg" class="d-block object-fit-cover banner-image" alt="Slider {{@index}}">
             <div class="row position-absolute h-100 w-100 top-0 start-0 g-0 z-1 pb-5">
               <div class="col-12 d-flex justify-content-end align-items-center flex-column mb-5">
                 <div class="row justify-content-center mb-5">

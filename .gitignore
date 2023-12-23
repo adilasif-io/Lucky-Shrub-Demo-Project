@@ -52,3 +52,4 @@ dist/
 docs/
 Developer/
 accessibility-reports/
+.env
